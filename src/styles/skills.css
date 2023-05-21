@@ -1,0 +1,14 @@
+.skills-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.skill-img {
+    width: 80px;
+    margin: 50px 10px;
+}
+
+.skill-img:hover {
+    transform: scale(120%);
+}

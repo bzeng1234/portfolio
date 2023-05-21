@@ -1,0 +1,18 @@
+.about-container,
+.about-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-pic {
+    width: 200px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.about-description {
+    width: 1000px;
+    font-weight: 400;
+}
